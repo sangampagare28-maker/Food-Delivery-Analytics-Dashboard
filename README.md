@@ -37,8 +37,8 @@ The objective is to help management understand business performance and make dat
 - Understand customer payment preferences.
 - Monitor delivery and cancellation performance.
 - Support management decision-making.
-## Dashboard Preview
-![Food Delivery Analytics Dashboard](Screenshots/Food_Delivery_Dashboard.png)
+![Food Delivery Dashboard]
+(https://raw.githubusercontent.com/YOUR_USERNAME/Food-Delivery-Analytics-Dashboard/main/Screenshots/Food_Delivery_Dashboard.png)
 ## Skills Demonstrated
 - Data Cleaning and Transformation
 - Power Query
