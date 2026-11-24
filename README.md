@@ -30,22 +30,6 @@ The objective is to help management understand business performance and make dat
 - UPI is the leading payment method.
 - Delivery performance and cancellation rates
   can be monitored through the dashboard.
-## Project Structure
-Food-Delivery-Analytics-Dashboard/
-│
-├── Dashboard/
-│   └── Food_Delivery_Dashboard.pbix
-│
-├── Screenshots/
-│   └── Food_Delivery_Dashboard.png
-│
-├── Dataset/
-│   └── Food_Delivery_Data.xlsx
-│
-├── Documentation/
-│   └── Business_Insights.md
-│
-└── README.md
 ## Business Objectives
 - Monitor overall food delivery performance.
 - Identify high-performing food categories.
@@ -54,7 +38,7 @@ Food-Delivery-Analytics-Dashboard/
 - Monitor delivery and cancellation performance.
 - Support management decision-making.
 ## Dashboard Preview
-![Food Delivery Dashboard](Screenshots/Food_Delivery_Dashboard.png)
+![Food Delivery Analytics Dashboard](Screenshots/Food_Delivery_Dashboard.png)
 ## Skills Demonstrated
 - Data Cleaning and Transformation
 - Power Query
